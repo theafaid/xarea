@@ -1,0 +1,132 @@
+navbar-brand img{
+    min-width: 50px;
+    position: relative;
+    max-height: 40px;
+}
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+	color:#0080ff;
+}
+
+#head-description{
+	display: none;
+}
+
+#welcomepage-header{
+	margin-bottom: 100px
+}
+
+.fa-google-plus:hover{
+	color:red !important;
+}
+
+.follow-us{
+	color: #ff5c5c;
+	margin-bottom: -20px;
+	display:  block;
+}
+.flat-price {
+	position: absolute;
+    top: 0;
+    left: 0;
+    background: #dd362d;
+    color: #fff;
+    padding: 10px;
+    border-radius: 0 0 20px 0;
+}
+.sort-status{
+	margin-bottom: 10px;
+}
+.ad_town{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.sort-right{
+	width:20%;
+}
+
+.status-center{
+	    width: 41%;
+    margin-right: 13px;
+}
+
+.furnished-left{
+	width: 32%;
+}
+
+.center-center{
+	margin-right: 9px;
+}
+.add_ad_btn{
+	background: #55c65a;
+}
+
+.add_ad_btn:hover{
+	background: #248f28
+}
+
+.myProfile{
+	display: inline;
+}
+
+.myProfile a {
+	color:#fff;
+}
+
+.myProfile ul li{
+	background: #000
+}
+
+/* profile page */
+
+.changePass{
+	margin-top:35px;
+	width: 100%;
+}
+.rm-changePass{
+	display: none;
+}
+/* search pages */
+.search-header span{
+    /* float: left; */
+    font-weight: 1000;
+    /* background: #55a1d6; */
+    padding: 5px;
+    color: #29a7ff !important;
+    border-radius: 5px;
+    text-align: center;
+}
+#search-space-field{
+	position: relative;
+}
+
+#space-info{
+    position: absolute;
+    top: 0px;
+    left: 5px;
+    padding: 6px;
+    background: #0a6baf;
+    color: #fff;
+}
+
+#priceRange, #spaceRange, #roomRange{
+	float: right;
+}
+input {
+	color: #000 !important;
+}
+.auther{
+	color: #8c8c8c;
+}
+
+.auther:hover{
+	color: #fff;
+}
+
+/* contact page */
+.contact-info{
+	margin-top: 30px;
+}
+/* myAds page */

@@ -1,0 +1,12 @@
+/* ALL TABLES */
+.table{
+	text-align: center;
+}
+
+.table tr th{
+	text-align: center;
+}
+
+.table tbody tr td {
+	vertical-align: middle;
+}
